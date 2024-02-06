@@ -1,0 +1,7 @@
+class info{
+public static void main(String[] args){
+String n="ansa";
+int age a=18;
+System.out.println(n+a);
+}
+}
